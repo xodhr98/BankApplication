@@ -1,4 +1,4 @@
-# dd
+# BankApplication(java, eclipse-workspace)
 
 ### 프로젝트에 대한 설명
 * 은행과 고객 사이에 일어나는 상황 중 입금 및 출금과 관련한 행위를 정의
