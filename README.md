@@ -28,4 +28,4 @@ BankService Interface: Client 클래스 2종류가 구현해야하는 메소드�
 Bank Class: 고객 요청을 기반으로 데이터베이스를 갱신해 주는 일을 함, 잔고의 갱신이 주된 일이 됨
 
 ### 결과
-![Alt text](/image.jpg)
+![Alt text](/image.png)
